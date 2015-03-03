@@ -13,7 +13,13 @@ var posts = [
     id: '3',
     title: "Thievery",
     body: "Every scrap of paper was gone, and with it all my notes, my memoranda, relating to railways and travel, my letter of credit, in fact all that might be useful to me were I once outside the castle. I sat and pondered awhile, and then some thought occurred to me, and I made search of my portmanteau and in the wardrobe where I had placed my clothes."
-  }
+  },
+  {
+  id: '4',
+  title: 'this is a test',
+  body: 'argh. this is a test'
+}
+
 ];
 
 var comments = [
