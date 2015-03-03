@@ -16,7 +16,7 @@ var posts = [
   },
   {
   id: '4',
-  title: 'this is a test',
+  title: 'aaa this is a test',
   body: 'argh. this is a test'
 }
 
